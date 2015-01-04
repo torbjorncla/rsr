@@ -1,0 +1,4 @@
+rsr
+===
+
+Real small replicator
